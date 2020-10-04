@@ -1,0 +1,42 @@
+#icons{
+    margin-left: 25% !important;
+    color: white;
+    background-color: #ffffff00;
+}
+#ClassePhoto{
+    text-align: center;
+    width: 50%;
+    margin: 2px 0px 5px 26%;
+}
+
+.tiles .tile .tile-object>.name{
+    text-align: center;
+    color: black;
+}
+.classe-caractaires-label{
+    width: 101px !important;
+}
+.classe-caractaires-selectBox>div{
+    margin-bottom: 20px;
+}
+
+.page-content-white .page-title {
+    text-align: center; 
+}
+.tiles-route{
+    margin: 0 10px 10px 25% !important;
+}
+.page-header.navbar .page-logo .logo-default {
+    margin-top: -12px !important;
+    height: 75px;
+    width: 154px;
+}
+.row{
+    margin-bottom: 10px;
+}
+.send{
+    text-align: center;
+}
+.Train{
+    text-align: center;
+}
